@@ -1,3 +1,5 @@
+Fixed @cfaester/enzyme-adapter-react-18 to react version 18.1.0
+
 [![npm](https://img.shields.io/npm/v/@cfaester/enzyme-adapter-react-18.svg)](https://www.npmjs.com/package/@cfaester/enzyme-adapter-react-18)
 
 # @cfaester/enzyme-adapter-react-18
